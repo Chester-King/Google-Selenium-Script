@@ -2,7 +2,7 @@ import time
 from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 
-driver = webdriver.Chrome("D:/Work/Browser Automation/chromedriver.exe")
+driver = webdriver.Chrome("D:/Work/VOLSBB-Selenium-Script/chromedriver.exe")
 # driver.get("https://www.google.com")
 driver.get("http://gstatic.com/generate_204")
 
